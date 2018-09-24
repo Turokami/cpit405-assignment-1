@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Home page](https://turokami.github.io/cpit405-assignment-1/cpit405-assignment-1/home-page.htm) 
+Click here for the[Home page](https://turokami.github.io/cpit405-assignment-1/cpit405-assignment-1/home-page.htm) 
 
 You can use the [editor on GitHub](https://github.com/Turokami/cpit405-assignment-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
