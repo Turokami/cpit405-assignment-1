@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-Click here for the[Home page](https://turokami.github.io/cpit405-assignment-1/home-page.htm) 
-
+# Click here for the [Home page](https://turokami.github.io/cpit405-assignment-1/home-page.htm) .
 You can use the [editor on GitHub](https://github.com/Turokami/cpit405-assignment-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
